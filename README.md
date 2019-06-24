@@ -21,3 +21,6 @@ Build:
 ```
 mvn clean install
 ```
+
+#### Participantes
+* **Fernando Paschualetto** - *Senior Developer* - [Paschualetto](https://github.com/paschualetto)
