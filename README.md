@@ -23,4 +23,5 @@ mvn clean install
 ```
 
 #### Participantes
-* **Fernando Paschualetto** - *Senior Developer* - [Paschualetto](https://github.com/paschualetto)
+* **Fernando Paschualetto** - *Senior Developer* - [Paschualetto](https://github.com/paschualetto) 
+* **Ricardo T. Semensato** - *Developer* - [Rtsemensato](https://github.com/rtsemensato)
