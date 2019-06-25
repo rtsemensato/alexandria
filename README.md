@@ -25,3 +25,4 @@ mvn clean install
 #### Participantes
 * **Fernando Paschualetto** - *Senior Developer* - [Paschualetto](https://github.com/paschualetto)
 * **Lucas Azevedo** - *Junior Developer* - [Saycon](https://github.com/saycon)
+* **Ricardo T. Semensato** - *Developer* - [Rtsemensato](https://github.com/rtsemensato)
